@@ -1,1 +1,1 @@
-# I store some of my minor time series modelling projects for future reference.
+# I store some of my minor time series modelling projects here for future reference.
